@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Paul Nguyen",
+    "section": "",
+    "text": "I clean, reshape, and combine data so it is ready for analysis and presentation.\n\n\n\nI build charts and dashboards that make patterns easy to see and explain.\n\n\n\nI write clear summaries, structure pages well, and present work in a professional format."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Paul Nguyen",
+    "section": "",
+    "text": "I clean, reshape, and combine data so it is ready for analysis and presentation.\n\n\n\nI build charts and dashboards that make patterns easy to see and explain.\n\n\n\nI write clear summaries, structure pages well, and present work in a professional format."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Paul Nguyen",
+    "section": "Education",
+    "text": "Education\n\n\nMATH 3376\nData Wrangling & Visualization with an emphasis on practical workflows, tidy data, and web publishing.\n\n\nCollege Experience\nCoursework focused on mathematics, analytics, and technical problem solving.\n\n\nAcademic Habits\nConsistent note taking, organized project files, and a steady focus on finishing work carefully."
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Paul Nguyen",
+    "section": "Overview",
+    "text": "Overview\nMy goal is to turn technical work into a site that is easy to scan, easy to trust, and easy to share.\nThis homepage is built with Quarto and uses a separate hobbies page to keep the site compact and professional."
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I like reading because it gives me new ideas and makes it easier to think carefully about complex topics. I am steady rather than fast, and I usually prefer books that teach me something useful.\n\n\n\nPhotography helps me notice composition, contrast, and detail. I am comfortable with casual shooting and editing, and I enjoy taking pictures that tell a simple story.\n\n\n\nI enjoy walking and hiking because they clear my head and give me time to think. I am in decent shape for local trails and like exploring places that feel quiet and natural.\n\n\n\n\n\n\nThis illustration stands in for a hobby image and keeps the site free of PNG files. It matches one of the hobbies listed above and fits the visual style of the site."
+  },
+  {
+    "objectID": "hobbies.html#hobbies",
+    "href": "hobbies.html#hobbies",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I like reading because it gives me new ideas and makes it easier to think carefully about complex topics. I am steady rather than fast, and I usually prefer books that teach me something useful.\n\n\n\nPhotography helps me notice composition, contrast, and detail. I am comfortable with casual shooting and editing, and I enjoy taking pictures that tell a simple story.\n\n\n\nI enjoy walking and hiking because they clear my head and give me time to think. I am in decent shape for local trails and like exploring places that feel quiet and natural.\n\n\n\n\n\n\nThis illustration stands in for a hobby image and keeps the site free of PNG files. It matches one of the hobbies listed above and fits the visual style of the site."
+  }
+]
