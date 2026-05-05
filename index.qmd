@@ -10,9 +10,6 @@ about:
     - icon: envelope
       text: paulnguyen576@gmail.com
       href: mailto:paulnguyen576@gmail.com
-    - icon: telephone
-      text: (720) 614-8480
-      href: tel:+17206148480
     - icon: github
       text: github.com/paulnguyen576
       href: https://github.com/paulnguyen576
@@ -99,6 +96,3 @@ Building RAG Agents with LLMs (NVIDIA)
 Building Agentic AI Applications with Large Language Models (NVIDIA)
 :::
 
-## Overview
-
-My goal is to turn technical work into a site that is easy to scan, easy to trust, and easy to share.
