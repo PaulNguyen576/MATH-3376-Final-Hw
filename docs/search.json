@@ -4,21 +4,42 @@
     "href": "index.html",
     "title": "Paul Nguyen",
     "section": "",
-    "text": "I clean, reshape, and combine data so it is ready for analysis and presentation.\n\n\n\nI build charts and dashboards that make patterns easy to see and explain.\n\n\n\nI write clear summaries, structure pages well, and present work in a professional format."
+    "text": "Python, C++, Matlab, Assembly, and SQL.\n\n\n\nGit, Visual Studio Code, Microsoft Office Suite, and Google Cloud Suite.\n\n\n\nProblem solving, detail-oriented execution, interpersonal communication, teamwork, and records management/data entry."
   },
   {
     "objectID": "index.html#skills",
     "href": "index.html#skills",
     "title": "Paul Nguyen",
     "section": "",
-    "text": "I clean, reshape, and combine data so it is ready for analysis and presentation.\n\n\n\nI build charts and dashboards that make patterns easy to see and explain.\n\n\n\nI write clear summaries, structure pages well, and present work in a professional format."
+    "text": "Python, C++, Matlab, Assembly, and SQL.\n\n\n\nGit, Visual Studio Code, Microsoft Office Suite, and Google Cloud Suite.\n\n\n\nProblem solving, detail-oriented execution, interpersonal communication, teamwork, and records management/data entry."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Paul Nguyen",
     "section": "Education",
-    "text": "Education\n\n\nMATH 3376\nData Wrangling & Visualization with an emphasis on practical workflows, tidy data, and web publishing.\n\n\nCollege Experience\nCoursework focused on mathematics, analytics, and technical problem solving.\n\n\nAcademic Habits\nConsistent note taking, organized project files, and a steady focus on finishing work carefully."
+    "text": "Education\n\n\nUniversity of Colorado Denver\nDenver, CO. Bachelor of Science in Computer Science, Minor in Data Science.\n\n\nGraduation and GPA\nExpected Fall 2026 with a 3.85 GPA.\n\n\nCertificate\nCybersecurity and Secure Computing."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Paul Nguyen",
+    "section": "Projects",
+    "text": "Projects\n\n2D-to-3D Image Reconstruction\nBuilt a machine learning pipeline using Python, MiDaS, and NeRF to reconstruct 3D scenes from 2D images through depth estimation and volumetric rendering."
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Paul Nguyen",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\n\nEUR113CA! Research Assistant\nDeveloped interactive research websites using Next.js and Vercel, and translated raw datasets into accessible visualizations for technical and non-technical audiences.\n\n\nStudent Assistant Roles\nSupported the Bursar and Financial Aid offices with communication, data entry, records updates, and office operations.\n\n\nEngineering Intern and Tutor\nWorked with D Incubator on engineering projects and events, and supported students as a tutor, grader, and assistant instructor at Kumon."
+  },
+  {
+    "objectID": "index.html#certifications",
+    "href": "index.html#certifications",
+    "title": "Paul Nguyen",
+    "section": "Certifications",
+    "text": "Certifications\n\nBuilding Transformer-Based Natural Language Processing Applications (NVIDIA)\nApplications of AI for Anomaly Detection (NVIDIA)\nGenerative AI with Diffusion Models (NVIDIA)\nBuilding RAG Agents with LLMs (NVIDIA)\nBuilding Agentic AI Applications with Large Language Models (NVIDIA)"
   },
   {
     "objectID": "index.html#overview",
@@ -32,13 +53,13 @@
     "href": "hobbies.html",
     "title": "Hobbies",
     "section": "",
-    "text": "I like reading because it gives me new ideas and makes it easier to think carefully about complex topics. I am steady rather than fast, and I usually prefer books that teach me something useful.\n\n\n\nPhotography helps me notice composition, contrast, and detail. I am comfortable with casual shooting and editing, and I enjoy taking pictures that tell a simple story.\n\n\n\nI enjoy walking and hiking because they clear my head and give me time to think. I am in decent shape for local trails and like exploring places that feel quiet and natural.\n\n\n\n\n\n\nThis illustration stands in for a hobby image and keeps the site free of PNG files. It matches one of the hobbies listed above and fits the visual style of the site."
+    "text": "I like reading because it gives me new ideas and makes it easier to think carefully about complex topics. I am steady rather than fast, and I usually prefer books that teach me something useful.\n\n\n\nI like exercising because it improves both physical health and focus. I stay consistent with workouts and use exercise as a way to keep my energy and discipline strong."
   },
   {
     "objectID": "hobbies.html#hobbies",
     "href": "hobbies.html#hobbies",
     "title": "Hobbies",
     "section": "",
-    "text": "I like reading because it gives me new ideas and makes it easier to think carefully about complex topics. I am steady rather than fast, and I usually prefer books that teach me something useful.\n\n\n\nPhotography helps me notice composition, contrast, and detail. I am comfortable with casual shooting and editing, and I enjoy taking pictures that tell a simple story.\n\n\n\nI enjoy walking and hiking because they clear my head and give me time to think. I am in decent shape for local trails and like exploring places that feel quiet and natural.\n\n\n\n\n\n\nThis illustration stands in for a hobby image and keeps the site free of PNG files. It matches one of the hobbies listed above and fits the visual style of the site."
+    "text": "I like reading because it gives me new ideas and makes it easier to think carefully about complex topics. I am steady rather than fast, and I usually prefer books that teach me something useful.\n\n\n\nI like exercising because it improves both physical health and focus. I stay consistent with workouts and use exercise as a way to keep my energy and discipline strong."
   }
 ]

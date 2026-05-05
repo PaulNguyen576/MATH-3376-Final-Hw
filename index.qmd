@@ -8,32 +8,35 @@ about:
   image-width: 220px
   links:
     - icon: envelope
-      text: paul.nguyen@example.com
-      href: mailto:paul.nguyen@example.com
+      text: paulnguyen576@gmail.com
+      href: mailto:paulnguyen576@gmail.com
+    - icon: telephone
+      text: (720) 614-8480
+      href: tel:+17206148480
     - icon: github
       text: github.com/paulnguyen576
       href: https://github.com/paulnguyen576
     - icon: linkedin
       text: linkedin.com/in/paulnguyen576
-      href: https://www.linkedin.com
+      href: https://www.linkedin.com/in/paulnguyen576
 ---
 
 ## Skills
 
 ::: {.card-grid .skills-grid}
 ::: {.info-card}
-### Data Wrangling
-I clean, reshape, and combine data so it is ready for analysis and presentation.
+### Programming
+Python, C++, Matlab, Assembly, and SQL.
 :::
 
 ::: {.info-card}
-### Visualization
-I build charts and dashboards that make patterns easy to see and explain.
+### Tools
+Git, Visual Studio Code, Microsoft Office Suite, and Google Cloud Suite.
 :::
 
 ::: {.info-card}
-### Communication
-I write clear summaries, structure pages well, and present work in a professional format.
+### Professional Strengths
+Problem solving, detail-oriented execution, interpersonal communication, teamwork, and records management/data entry.
 :::
 :::
 
@@ -41,20 +44,54 @@ I write clear summaries, structure pages well, and present work in a professiona
 
 ::: {.card-grid .education-grid}
 ::: {.info-card}
-### MATH 3376
-Data Wrangling & Visualization with an emphasis on practical workflows, tidy data, and web publishing.
+### University of Colorado Denver
+Denver, CO. Bachelor of Science in Computer Science, Minor in Data Science.
 :::
 
 ::: {.info-card}
-### College Experience
-Coursework focused on mathematics, analytics, and technical problem solving.
+### Graduation and GPA
+Expected Fall 2026 with a 3.85 GPA.
 :::
 
 ::: {.info-card}
-### Academic Habits
-Consistent note taking, organized project files, and a steady focus on finishing work carefully.
+### Certificate
+Cybersecurity and Secure Computing.
 :::
 :::
+
+## Projects
+
+::: {.info-card}
+### 2D-to-3D Image Reconstruction
+Built a machine learning pipeline using Python, MiDaS, and NeRF to reconstruct 3D scenes from 2D images through depth estimation and volumetric rendering.
+:::
+
+## Professional Experience
+
+::: {.card-grid}
+::: {.info-card}
+### EUR\u0113CA! Research Assistant
+Developed interactive research websites using Next.js and Vercel, and translated raw datasets into accessible visualizations for technical and non-technical audiences.
+:::
+
+::: {.info-card}
+### Student Assistant Roles
+Supported the Bursar and Financial Aid offices with communication, data entry, records updates, and office operations.
+:::
+
+::: {.info-card}
+### Engineering Intern and Tutor
+Worked with D Incubator on engineering projects and events, and supported students as a tutor, grader, and assistant instructor at Kumon.
+:::
+:::
+
+## Certifications
+
+- Building Transformer-Based Natural Language Processing Applications (NVIDIA)
+- Applications of AI for Anomaly Detection (NVIDIA)
+- Generative AI with Diffusion Models (NVIDIA)
+- Building RAG Agents with LLMs (NVIDIA)
+- Building Agentic AI Applications with Large Language Models (NVIDIA)
 
 ## Overview
 
