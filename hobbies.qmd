@@ -1,0 +1,33 @@
+---
+title: "Hobbies"
+page-layout: full
+---
+
+## Hobbies
+
+::: {.hobby-stack}
+::: {.hobby-card}
+### Reading
+I like reading because it gives me new ideas and makes it easier to think carefully about complex topics. I am steady rather than fast, and I usually prefer books that teach me something useful.
+:::
+
+::: {.hobby-card}
+### Photography
+Photography helps me notice composition, contrast, and detail. I am comfortable with casual shooting and editing, and I enjoy taking pictures that tell a simple story.
+:::
+
+::: {.hobby-card}
+### Walking and Hiking
+I enjoy walking and hiking because they clear my head and give me time to think. I am in decent shape for local trails and like exploring places that feel quiet and natural.
+:::
+:::
+
+::: {.media-panel}
+![](assets/camera.svg){alt="Stylized camera illustration representing photography"}
+
+::: {.media-copy}
+### Featured Hobby
+
+This illustration stands in for a hobby image and keeps the site free of PNG files. It matches one of the hobbies listed above and fits the visual style of the site.
+:::
+:::

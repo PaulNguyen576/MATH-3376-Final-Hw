@@ -1,0 +1,63 @@
+---
+title: "Paul Nguyen"
+page-layout: full
+about:
+  template: jolla
+  image: assets/avatar.svg
+  image-alt: Abstract profile illustration with the initials PN
+  image-width: 220px
+  links:
+    - icon: envelope
+      text: paul.nguyen@example.com
+      href: mailto:paul.nguyen@example.com
+    - icon: github
+      text: github.com/paulnguyen576
+      href: https://github.com/paulnguyen576
+    - icon: linkedin
+      text: linkedin.com/in/paulnguyen576
+      href: https://www.linkedin.com
+---
+
+## Skills
+
+::: {.card-grid .skills-grid}
+::: {.info-card}
+### Data Wrangling
+I clean, reshape, and combine data so it is ready for analysis and presentation.
+:::
+
+::: {.info-card}
+### Visualization
+I build charts and dashboards that make patterns easy to see and explain.
+:::
+
+::: {.info-card}
+### Communication
+I write clear summaries, structure pages well, and present work in a professional format.
+:::
+:::
+
+## Education
+
+::: {.card-grid .education-grid}
+::: {.info-card}
+### MATH 3376
+Data Wrangling & Visualization with an emphasis on practical workflows, tidy data, and web publishing.
+:::
+
+::: {.info-card}
+### College Experience
+Coursework focused on mathematics, analytics, and technical problem solving.
+:::
+
+::: {.info-card}
+### Academic Habits
+Consistent note taking, organized project files, and a steady focus on finishing work carefully.
+:::
+:::
+
+## Overview
+
+My goal is to turn technical work into a site that is easy to scan, easy to trust, and easy to share.
+
+This homepage is built with Quarto and uses a separate hobbies page to keep the site compact and professional.

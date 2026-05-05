@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract profile illustration</title>
+  <desc id="desc">A circular monogram with the initials PN on a layered gradient background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7ae1ff"/>
+      <stop offset="55%" stop-color="#8f7dff"/>
+      <stop offset="100%" stop-color="#17284d"/>
+    </linearGradient>
+    <radialGradient id="shine" cx="30%" cy="25%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="480" height="480" rx="90" fill="#0b1020"/>
+  <circle cx="240" cy="240" r="188" fill="url(#bg)"/>
+  <circle cx="184" cy="170" r="120" fill="url(#shine)"/>
+  <circle cx="240" cy="240" r="158" fill="none" stroke="#d8efff" stroke-opacity="0.42" stroke-width="10"/>
+  <text x="240" y="270" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="700" fill="#f5f7ff" letter-spacing="6">PN</text>
+  <path d="M130 335c27-25 63-40 110-40s83 15 110 40" fill="none" stroke="#f5f7ff" stroke-opacity="0.45" stroke-width="10" stroke-linecap="round"/>
+</svg>
