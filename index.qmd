@@ -70,7 +70,7 @@ Built a machine learning pipeline using Python, MiDaS, and NeRF to reconstruct 3
 
 ::: {.card-grid}
 ::: {.info-card}
-### EUR\u0113CA! Research Assistant
+### EURECA! Research Assistant
 Developed interactive research websites using Next.js and Vercel, and translated raw datasets into accessible visualizations for technical and non-technical audiences.
 :::
 
@@ -87,14 +87,18 @@ Worked with D Incubator on engineering projects and events, and supported studen
 
 ## Certifications
 
-- Building Transformer-Based Natural Language Processing Applications (NVIDIA)
-- Applications of AI for Anomaly Detection (NVIDIA)
-- Generative AI with Diffusion Models (NVIDIA)
-- Building RAG Agents with LLMs (NVIDIA)
-- Building Agentic AI Applications with Large Language Models (NVIDIA)
+::: {.cert-list}
+Building Transformer-Based Natural Language Processing Applications (NVIDIA)
+
+Applications of AI for Anomaly Detection (NVIDIA)
+
+Generative AI with Diffusion Models (NVIDIA)
+
+Building RAG Agents with LLMs (NVIDIA)
+
+Building Agentic AI Applications with Large Language Models (NVIDIA)
+:::
 
 ## Overview
 
 My goal is to turn technical work into a site that is easy to scan, easy to trust, and easy to share.
-
-This homepage is built with Quarto and uses a separate hobbies page to keep the site compact and professional.

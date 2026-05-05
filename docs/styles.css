@@ -11,12 +11,27 @@
   --site-shadow: 0 18px 50px rgba(0, 0, 0, 0.34);
 }
 
+html,
+body {
+  min-height: 100%;
+  background-color: var(--site-bg);
+}
+
 body {
   background:
     radial-gradient(circle at top left, rgba(122, 225, 255, 0.16), transparent 28%),
     radial-gradient(circle at top right, rgba(155, 140, 255, 0.16), transparent 24%),
     linear-gradient(180deg, var(--site-bg) 0%, var(--site-bg-2) 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   color: var(--site-text);
+}
+
+.quarto-container,
+#quarto-content,
+main.content {
+  background: transparent;
 }
 
 .navbar, .quarto-title-banner {
@@ -146,6 +161,14 @@ h2 {
 p, li {
   color: var(--site-muted);
   line-height: 1.7;
+}
+
+.cert-list {
+  text-align: center;
+}
+
+.cert-list p {
+  margin: 0.45rem 0;
 }
 
 @media (max-width: 720px) {
